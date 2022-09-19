@@ -81,3 +81,6 @@ The last is the Support Vector Machine
 Which gives the result as 
 
 <img width="321" alt="Screenshot 2022-09-19 at 7 40 36 PM" src="https://user-images.githubusercontent.com/83020129/191037623-470ad4ad-d953-4cea-ace9-9f3c4009f81e.png">
+
+
+This documentation is a personal learning documentation created by referring various sources and self knowlegde.
